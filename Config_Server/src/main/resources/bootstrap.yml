@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-service
+
+  cloud:
+    config:
+      uri: http://umar:umar4114@localhost:8888
